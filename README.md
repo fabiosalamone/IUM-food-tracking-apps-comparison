@@ -7,4 +7,4 @@ Progetto svolto secondo le modalità del corso Interazione Uomo-Macchina tenuto 
 
 In breve, l'obiettivo del progetto è quello di confrontare due o più sistemi (nel nostro caso applicazioni) con lo scopo di evidenziarne particolari qualità e problemi di usabilità, tema centrale del corso in questione.
 
-Progetto svolto in gruppo, ecco gli altri membri: [@lorenzomagni](https://github.com/lorenzomagni), [@benedettoraviotta](https://github.com/benedettoraviotta), [@fabiosalamone](https://github.com/fabiosalamone).
+Progetto svolto in gruppo con: [@lorenzomagni](https://github.com/lorenzomagni), [@benedettoraviotta](https://github.com/benedettoraviotta), [@fabiosalamone](https://github.com/fabiosalamone).
